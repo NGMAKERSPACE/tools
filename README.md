@@ -1,7 +1,7 @@
 # Tools and instructions on how to use them | WIP finished soon.
 ### *Table of contents:*
 
-1. [Laser Cutter]()
+1. [Laser Cutter](#The-Laser-Cutter)
 2. [3D Printers]()
 3. [Soldering Irons]()
 
