@@ -1,9 +1,9 @@
 # Tools and instructions on how to use them | WIP finished soon.
 ### *Table of contents:*
 
-1. [Laser Cutter](#The-Laser-Cutter)
-2. [3D Printers](#3D-Printers)
-3. [Soldering Irons](#Soldering-Irons)
+1. [Laser Cutter](#the-laser-cutter)
+2. [3D Printers](#3d-printers)
+3. [Soldering Irons](#soldering-irons)
 
 ### *Disclaimer*
 
@@ -12,6 +12,9 @@ If you are unsure of how a tool work, regardless of whether you have read the in
 **NB** that some of the tools might require supervision from a trained individual. It will be noted if necessary at the given tools.
 
 ## The Laser Cutter
+
+
+
 
 ## 3D Printers
 
